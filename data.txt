@@ -12,4 +12,3 @@ Step 2.1:
 
 Step 2.2:
 1st additional commit to develop - Add Therapy tours type to data file
-2nd additional commit to develop - Add another Therapy tours type to data file
