@@ -11,5 +11,9 @@ Step 2.1:
 2nd additional commit to develop - Add another Shopping tours type to data file
 
 Step 2.2:
+<<<<<<< HEAD
 1st additional commit to develop - Add Therapy tours type to data file
 
+=======
+1st additional commit to develop - Add Therapy tours type to data file
+>>>>>>> debd242... Add Therapy tours type to data file, step 2.2, 1st commit to develop
